@@ -3,11 +3,6 @@ alias ls='ls -G'
 alias br='git branch'
 alias st='git status'
 
-alias sshwap1='ssh mitsui_yoshito@172.28.175.111'
-alias sshwap2='ssh mitsui_yoshito@172.28.175.112'
-alias sshwap3='ssh mitsui_yoshito@172.28.175.53'
-alias sshwap4='ssh mitsui_yoshito@172.28.175.26'
-
 autoload -U colors
 colors
 
